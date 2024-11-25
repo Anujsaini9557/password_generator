@@ -65,4 +65,5 @@ textarea {
     border-radius: 5px;
     font-size: 16px;
     resize: none;
+    margin-right: 4px;
 }
